@@ -1,4 +1,4 @@
-# Medieval vs Fantasy Card Combat Game
+# Black Forest Card Combat Game
 
 ##### Workflow
 First you need to clone repository. By default you are in main branch.
